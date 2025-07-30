@@ -17,10 +17,9 @@ This is a static website built using **HTML** and **CSS**, designed to demonstra
 
 ## 📁 Project Structure
 projectname-rupal/
-│
-├── index.html # Home page
-├── style.css # Main stylesheet
-└── images/ # (Optional) Image assets
+index.html # Home page
+style.css # Main stylesheet
+images/ # (Optional) Image assets
 
 ---
 
